@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/ProgramData/Maven/apache-maven-3.6.1" />
+        <option name="nonRecursive" value="true" />
+        <option name="outputLevel" value="DEBUG" />
+        <option name="userSettingsFile" value="D:\ProgramData\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+</project>
